@@ -1,7 +1,6 @@
 
 <img width="1333" height="587" alt="cvmd" src="https://github.com/user-attachments/assets/446ee916-4148-4855-9d41-cdf6f9c2d167" />
 
-ADME.md](https://github.com/user-attachments/files/22752680/README.md)
 # Conversor de Moedas (Web)
 
 Uma aplicação web simples e responsiva para conversão de moedas fiduciárias e Bitcoin, com interface moderna e animação decorativa.
