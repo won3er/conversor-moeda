@@ -69,4 +69,4 @@ Caso altere as moedas suportadas, ajuste as `<option>` em `index.html` (`#moeda-
 - Suporte a mais criptomoedas.
 
 ## Licença
-Defina uma licença (ex.: MIT) caso deseje abrir o projeto.
+(MIT).
