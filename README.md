@@ -20,7 +20,7 @@ Uma aplicação web simples e responsiva para conversão de moedas fiduciárias 
 
 ## Estrutura do projeto
 ```
-site test/
+Conversor de moeda/
 ├─ index.html           # Página principal
 ├─ style.css            # Estilos (tema escuro, tipografia, botão, inputs)
 ├─ script.js            # Lógica de conversão e integração com APIs
